@@ -9,7 +9,7 @@
     "config": "git update-index --skip-worktree .ghost.json"
   },
   "dependencies": {
-    "gatsby": "^2.20.12",
+    "gatsby": "^4.25.7",
     "gatsby-rehype-ghost-links": "^1.1.2",
     "gatsby-rehype-prismjs": "^0.0.12",
     "gatsby-theme-ghost-dark-mode": "^1.0.5",
